@@ -1,0 +1,398 @@
+itemsets,support
+horse horse horse,0.0030213653693978
+horse-horse,0.0150348895762894
+horse. horse,0.0015106826846989
+horse horse,0.0061866052801956
+horse,0.0264009783468815
+horse,0.0166175095316883
+horse,0.0123732105603913
+horse horse,0.0351053881015754
+horse horse,0.047118912308467
+horse,0.0019423063088986
+horse horse,0.0295662182576793
+horse,0.027120351053881
+horse horse,0.0126609596431911
+horse horse,0.0043162362419969
+horse,0.0030213653693978
+horse,0.0102150924393928
+horse horse,0.0345298899359758
+horse horse,0.0061866052801956
+horse horse,0.0011509963311991
+horse horse,0.0044601107833968
+horse horse,0.0089202215667937
+horse,0.0023019926623983
+horse horse,0.0087044097546939
+horse,0.0209337457736853
+horse,0.0181281922163873
+horse horse,0.002733616286598
+horse horse,0.0397813106970721
+horse,0.0016545572260988
+horse horse/horse,0.004172361700597
+horse,0.025609668369182
+horse horse,0.0045320480540968
+horse horse ,0.0182720667577872
+horse,0.0260412919933817
+horse horse,0.0022300553916984
+horse horse,0.0015826199553988
+horse,0.0175526940507877
+horse,0.0066182289043953
+horse horse,0.0038126753470973
+horse,0.0063304798215955
+horse horse,0.0028774908279979
+horse horse,0.0283432846557801
+horse horse horse,0.0017264944967987
+horse horse,0.0030213653693978
+horse,0.001366808143299
+horse,0.0069059779871951
+horse (horse),0.0034529889935975
+horse,0.0288468455506798
+horse horse,0.0038846126177972
+horse horse,0.005611107114596
+horse horse,0.0133083950794906
+horse horse horse,0.0038126753470973
+horse horse,0.0216531184806848
+horse/horse horse,0.0259693547226818
+horse,0.0105028415221926
+horse,0.0134522696208905
+horse horse,0.0166894468023883
+horse horse,0.0106467160635925
+horse,0.0080569743183943
+horse horse horse,0.0023739299330983
+horse horse,0.0105747787928925
+horse horse,0.011294151499892
+horse horse,0.002805553557298
+horse,0.0017984317674987
+horse,0.0014387454139989
+horse horse,0.0015826199553988
+horse horse,0.0014387454139989
+horse,0.0054672325731961
+horse (horse),0.0032371771814977
+horse horse,0.0025178044744982
+horse horse horse horse,0.012732896913891
+horse horse,0.0018703690381986
+horse,0.0250341702035824
+horse,0.0033810517228976
+horse,0.0132364578087907
+horse horse,0.0016545572260988
+horse. horse,0.0123732105603913
+horse,0.0048197971368966
+horse,0.0178404431335875
+horse,0.0291345946334796
+horse horse,0.0011509963311991
+horse/horse,0.0016545572260988
+horse,0.0110064024170922
+horse,0.015682325012589
+horse horse,0.0010790590604992
+horse horse,0.092799079202935
+horse horse/horse,0.0066901661750953
+horse,0.0057549816559959
+horse,0.0397813106970721
+horse horse,0.0045320480540968
+horse/horse,0.0037407380763973
+horse horse,0.0067621034457952
+horse horse,0.0364721962448744
+horse,0.0023019926623983
+horse,0.0273361628659808
+horse horse,0.0058988561973958
+horse horse,0.001294870872599
+horse horse,0.0082008488597942
+horse,0.0010071217897992
+horse/horse horse,0.0082727861304942
+horse,0.0025178044744982
+horse horse ,0.0038126753470973
+horse/horse,0.0835191712826415
+horse horse,0.0515790230918638
+horse,0.001366808143299
+horse,0.004172361700597
+horse horse,0.0133083950794906
+horse,0.0021581181209984
+horse,0.0452485432702683
+horse horse,0.0059707934680958
+horse-horse horse,0.0069059779871951
+horse horse,0.0353211999136752
+horse horse,0.0102870297100927
+horse horse,0.001294870872599
+horse,0.0010790590604992
+horse,0.0740953888209481
+horse horse,0.0074814761527947
+horse,0.0020142435795985
+horse,0.0023019926623983
+horse horse,0.0023739299330983
+horse horse,0.0107186533342924
+horse horse,0.0030933026400978
+horse horse,0.0119415869361916
+horse horse,0.0014387454139989
+horse,0.0020142435795985
+horse horse,0.0047478598661966
+horse,0.0132364578087907
+horse horse,0.0037407380763973
+horse,0.001294870872599
+horse horse,0.0484137831810661
+horse,0.0037407380763973
+horse,0.0026616790158981
+horse,0.0137400187036903
+horse/horse horse,0.0334508308754765
+horse horse,0.0177685058628875
+horse horse,0.0086324724839939
+horse horse,0.1180490612186173
+horse,0.0643119200057549
+horse,0.0030213653693978
+"horse-horse, horse horse",0.0012229336018991
+"horse-horse, horse horse",0.0010071217897992
+"horse-horse, horse horse",0.0015826199553988
+"horse, horse horse",0.0010790590604992
+"horse, horse horse",0.0010790590604992
+"horse, horse horse",0.001294870872599
+"horse, horse horse",0.0010071217897992
+"horse, horse horse",0.0024458672037982
+"horse, horse horse",0.0010790590604992
+"horse, horse horse",0.0014387454139989
+"horse, horse horse",0.0012229336018991
+"horse horse, horse horse",0.0015826199553988
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse horse",0.0010790590604992
+"horse horse, horse",0.0010790590604992
+"horse horse, horse horse",0.0025178044744982
+"horse horse, horse",0.001366808143299
+"horse horse, horse horse",0.0012229336018991
+"horse horse, horse/horse",0.0023019926623983
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.0019423063088986
+"horse horse, horse",0.0012229336018991
+"horse horse, horse horse",0.0015826199553988
+"horse horse, horse horse",0.0037407380763973
+"horse horse, horse",0.0020142435795985
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse",0.001366808143299
+"horse horse, horse horse",0.0014387454139989
+"horse horse, horse",0.0010790590604992
+"horse horse, horse",0.0010790590604992
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse",0.0011509963311991
+"horse horse, horse horse",0.0025897417451981
+"horse horse, horse",0.0015106826846989
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.0010071217897992
+"horse horse, horse/horse",0.0032371771814977
+"horse horse, horse horse",0.0017984317674987
+"horse horse, horse",0.0015826199553988
+"horse horse, horse horse",0.0012229336018991
+"horse horse, horse",0.002805553557298
+"horse horse, horse horse",0.0015826199553988
+"horse horse, horse horse",0.0043162362419969
+"horse horse, horse",0.0017984317674987
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse horse",0.001294870872599
+"horse horse, horse",0.0011509963311991
+"horse horse, horse horse",0.0017264944967987
+"horse horse, horse",0.001366808143299
+"horse horse, horse/horse",0.0021581181209984
+"horse horse, horse",0.0018703690381986
+"horse horse, horse horse",0.0025178044744982
+"horse horse, horse",0.001294870872599
+"horse, horse horse",0.0010790590604992
+"horse, horse/horse horse",0.0010071217897992
+"horse, horse",0.0010071217897992
+"horse, horse",0.0012229336018991
+"horse, horse horse",0.0020142435795985
+"horse, horse/horse",0.0016545572260988
+"horse, horse horse",0.0011509963311991
+"horse, horse",0.0011509963311991
+"horse, horse",0.0020861808502985
+"horse, horse horse",0.002805553557298
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.0012229336018991
+"horse horse, horse horse",0.0020142435795985
+"horse horse, horse/horse",0.0017984317674987
+"horse horse, horse horse",0.0012229336018991
+"horse horse, horse",0.001366808143299
+"horse horse, horse",0.0016545572260988
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse horse",0.0030213653693978
+"horse horse, horse",0.0021581181209984
+"horse, horse horse",0.0010790590604992
+"horse, horse/horse",0.0019423063088986
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.0020142435795985
+"horse, horse",0.0010071217897992
+"horse, horse/horse",0.0014387454139989
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.0016545572260988
+"horse, horse",0.0010071217897992
+"horse horse, horse",0.0010790590604992
+"horse horse, horse horse",0.0029494280986979
+"horse horse, horse",0.0012229336018991
+"horse horse, horse/horse",0.002805553557298
+"horse horse, horse horse",0.0014387454139989
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.0020142435795985
+"horse horse, horse horse",0.001366808143299
+"horse horse, horse/horse horse",0.0011509963311991
+"horse horse, horse horse",0.0033810517228976
+"horse horse, horse",0.0025897417451981
+"horse, horse horse",0.001294870872599
+"horse, horse/horse",0.0014387454139989
+"horse, horse",0.0017264944967987
+"horse, horse horse",0.0020142435795985
+"horse, horse",0.001366808143299
+"horse horse , horse horse",0.0018703690381986
+"horse, horse horse",0.0021581181209984
+"horse, horse/horse",0.0014387454139989
+"horse, horse",0.0012229336018991
+"horse, horse horse",0.0010071217897992
+"horse, horse",0.0015106826846989
+"horse, horse horse",0.0014387454139989
+"horse, horse horse",0.0023019926623983
+"horse, horse/horse",0.0010071217897992
+"horse, horse horse",0.001294870872599
+"horse horse, horse",0.0010071217897992
+"horse horse, horse horse",0.0023019926623983
+"horse horse, horse",0.0010790590604992
+"horse horse, horse/horse",0.0018703690381986
+"horse horse, horse",0.0014387454139989
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.001294870872599
+"horse horse, horse horse",0.0030933026400978
+"horse horse, horse",0.0010071217897992
+"horse, horse horse",0.0030933026400978
+"horse, horse/horse",0.0018703690381986
+"horse, horse horse",0.0010071217897992
+"horse, horse",0.0018703690381986
+"horse, horse horse",0.0032371771814977
+"horse, horse",0.001294870872599
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse",0.0010790590604992
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse horse",0.0017264944967987
+"horse horse, horse/horse",0.0015106826846989
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.0012229336018991
+"horse horse, horse",0.0012229336018991
+"horse horse, horse horse",0.0021581181209984
+"horse/horse horse, horse horse",0.0012229336018991
+"horse/horse horse, horse/horse",0.0017984317674987
+"horse/horse horse, horse",0.0011509963311991
+"horse/horse horse, horse",0.001294870872599
+"horse/horse horse, horse horse",0.0011509963311991
+"horse/horse horse, horse horse",0.0025897417451981
+"horse/horse horse, horse",0.0010071217897992
+"horse, horse horse",0.0010071217897992
+"horse, horse",0.0011509963311991
+"horse, horse horse",0.0010790590604992
+"horse, horse horse",0.0010790590604992
+"horse, horse horse",0.0018703690381986
+"horse horse, horse horse",0.0010790590604992
+"horse horse, horse/horse",0.0010790590604992
+"horse horse, horse",0.0011509963311991
+"horse horse, horse horse",0.0014387454139989
+"horse horse, horse",0.0010071217897992
+"horse horse, horse/horse",0.0010790590604992
+"horse horse, horse horse",0.0010071217897992
+"horse, horse horse",0.0010071217897992
+"horse horse, horse horse",0.0010071217897992
+"horse horse horse horse, horse horse",0.001294870872599
+"horse, horse horse",0.0019423063088986
+"horse, horse horse",0.0010790590604992
+"horse, horse",0.0010790590604992
+"horse, horse/horse",0.0017984317674987
+"horse, horse",0.0018703690381986
+"horse, horse horse",0.0017264944967987
+"horse, horse",0.0012229336018991
+"horse, horse horse",0.0011509963311991
+"horse, horse horse",0.001294870872599
+"horse, horse",0.0011509963311991
+"horse, horse/horse",0.0010071217897992
+"horse, horse",0.0010790590604992
+"horse, horse horse",0.001294870872599
+"horse, horse horse",0.0023019926623983
+"horse, horse",0.0010790590604992
+"horse, horse/horse",0.0017264944967987
+"horse, horse horse",0.0011509963311991
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.0010071217897992
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.0011509963311991
+"horse, horse horse",0.002733616286598
+"horse, horse",0.0017984317674987
+"horse, horse",0.0010071217897992
+"horse, horse horse",0.001366808143299
+"horse, horse horse",0.0014387454139989
+"horse horse, horse",0.0019423063088986
+"horse horse, horse horse",0.0025178044744982
+"horse horse, horse",0.0023739299330983
+"horse horse, horse/horse",0.0050356089489964
+"horse horse, horse horse",0.0030933026400978
+"horse horse, horse horse",0.0010071217897992
+"horse horse, horse",0.0028774908279979
+"horse horse, horse horse",0.002733616286598
+"horse horse, horse",0.0054672325731961
+"horse horse, horse horse",0.0030933026400978
+"horse horse, horse",0.0010071217897992
+"horse horse, horse/horse horse",0.0020861808502985
+"horse horse, horse horse",0.0015106826846989
+"horse horse, horse horse",0.0069779152578951
+"horse horse, horse",0.0041004244298971
+"horse, horse horse",0.0014387454139989
+"horse, horse/horse",0.0020861808502985
+"horse, horse horse",0.0012229336018991
+"horse, horse",0.0018703690381986
+"horse, horse",0.0020142435795985
+"horse, horse horse",0.0015106826846989
+"horse, horse horse",0.0031652399107977
+"horse, horse",0.0019423063088986
+"horse horse, horse/horse",0.0030933026400978
+"horse horse, horse horse",0.0015106826846989
+"horse horse, horse",0.0015106826846989
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse",0.0024458672037982
+"horse horse, horse horse",0.0011509963311991
+"horse horse, horse/horse horse",0.0010071217897992
+"horse horse, horse horse",0.0033810517228976
+"horse horse, horse",0.0017264944967987
+"horse, horse/horse",0.0016545572260988
+"horse, horse",0.0017264944967987
+"horse, horse horse",0.0026616790158981
+"horse, horse",0.0011509963311991
+"horse horse, horse/horse",0.0011509963311991
+"horse/horse, horse horse",0.0033810517228976
+"horse/horse, horse horse",0.0012229336018991
+"horse/horse, horse",0.0030213653693978
+"horse/horse, horse horse",0.002805553557298
+"horse/horse, horse",0.0043881735126969
+"horse/horse, horse horse",0.0029494280986979
+"horse/horse, horse",0.0011509963311991
+"horse/horse, horse/horse horse",0.0015826199553988
+"horse/horse, horse horse",0.0010790590604992
+"horse/horse, horse horse",0.0079130997769944
+"horse/horse, horse",0.0044601107833968
+"horse horse, horse",0.0020861808502985
+"horse horse, horse horse",0.0015826199553988
+"horse horse, horse",0.0024458672037982
+"horse horse, horse horse",0.0015826199553988
+"horse horse, horse/horse horse",0.0015106826846989
+"horse horse, horse horse",0.0033091144521976
+"horse horse, horse",0.0020142435795985
+"horse horse, horse horse",0.0011509963311991
+"horse, horse horse",0.0012229336018991
+"horse, horse",0.0033091144521976
+"horse, horse horse",0.001366808143299
+"horse, horse/horse horse",0.0010790590604992
+"horse, horse horse",0.0052514207610963
+"horse, horse",0.0032371771814977
+"horse horse, horse",0.0028774908279979
+"horse horse, horse horse",0.0016545572260988
+"horse horse, horse horse",0.0035968635349974
+"horse horse, horse",0.0016545572260988
+"horse, horse horse",0.0023019926623983
+"horse, horse/horse horse",0.0020861808502985
+"horse, horse horse",0.0059707934680958
+"horse, horse",0.0030213653693978
+"horse horse, horse horse",0.0010790590604992
+"horse, horse horse",0.001294870872599
+"horse horse, horse horse",0.0037407380763973
+"horse horse, horse",0.0020142435795985
+"horse, horse horse",0.0015106826846989
+"horse/horse horse, horse horse",0.0025178044744982
+"horse/horse horse, horse",0.0017264944967987
+"horse horse, horse horse",0.0018703690381986
+"horse horse, horse",0.0065462916336954
